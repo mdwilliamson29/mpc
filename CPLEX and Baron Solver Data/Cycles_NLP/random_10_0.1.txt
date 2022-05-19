@@ -1,0 +1,325 @@
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.464058876038 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0658891201019 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.623636960983 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0668318271637 seconds!
+Objective is: 3.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.572557926178 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0664689540863 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.512849092484 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0660769939423 seconds!
+Objective is: 3.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.55010509491 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0674409866333 seconds!
+Objective is: 3.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0786139965057 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0652770996094 seconds!
+Objective is: 3.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.073930978775 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0675611495972 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 1 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0989398956299 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0660381317139 seconds!
+Objective is: 2.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0997319221497 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0653088092804 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0706031322479 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0626080036163 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0759081840515 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.063591003418 seconds!
+Objective is: 3.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0735399723053 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0649421215057 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0888800621033 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0730180740356 seconds!
+Objective is: 2.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0703828334808 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.063793182373 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0728659629822 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0667788982391 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.071928024292 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0620288848877 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0726799964905 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0646669864655 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 4 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.147553920746 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.066880941391 seconds!
+Objective is: 3.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.07266497612 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0640869140625 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.0713739395142 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0657579898834 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.656691074371 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0650198459625 seconds!
+Objective is: 3.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.646507978439 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0671079158783 seconds!
+Objective is: 3.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.44508600235 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0684130191803 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.605033874512 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0662069320679 seconds!
+Objective is: 9.0
+NCCD
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+ampl.solve() took 0.582597017288 seconds!
+Objective is: 0.0
+SNCC
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 0
+Objective = totalCost
+ampl.solve() took 0.0701088905334 seconds!
+Objective is: 3.0

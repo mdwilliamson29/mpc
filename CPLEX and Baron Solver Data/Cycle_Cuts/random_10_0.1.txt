@@ -1,0 +1,1232 @@
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.645890951157 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0528271198273 seconds!
+Objective is: 2.0
+AMPL took 0.00340604782104 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0526459217072 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0521099567413 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.504622936249 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0563540458679 seconds!
+Objective is: 3.0
+AMPL took 0.00357818603516 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0534341335297 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0516200065613 seconds!
+Objective is: 3.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.463815927505 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0525679588318 seconds!
+Objective is: 2.0
+AMPL took 0.00349402427673 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0524590015411 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0518670082092 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.542319059372 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0572648048401 seconds!
+Objective is: 2.0
+AMPL took 0.00348305702209 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0537540912628 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0541110038757 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.648102045059 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0543720722198 seconds!
+Objective is: 3.0
+AMPL took 0.00337100028992 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.05220079422 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0519959926605 seconds!
+Objective is: 3.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0484628677368 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.049418926239 seconds!
+Objective is: 2.0
+AMPL took 0.00336098670959 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0498750209808 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0496888160706 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0510561466217 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.052237033844 seconds!
+Objective is: 2.0
+AMPL took 0.00354886054993 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0547158718109 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0527780056 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0518040657043 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.051332950592 seconds!
+Objective is: 2.0
+AMPL took 0.00330901145935 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0608990192413 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0522799491882 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0523648262024 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0532598495483 seconds!
+Objective is: 2.0
+AMPL took 0.00350999832153 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0541980266571 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0540008544922 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0497410297394 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0519151687622 seconds!
+Objective is: 2.0
+AMPL took 0.00340604782104 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0516178607941 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0516948699951 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0568950176239 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0590398311615 seconds!
+Objective is: 3.0
+AMPL took 0.00351405143738 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0591390132904 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0597851276398 seconds!
+Objective is: 3.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0494649410248 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0555210113525 seconds!
+Objective is: 2.0
+AMPL took 0.00354814529419 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0527040958405 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0534958839417 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0507400035858 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0516510009766 seconds!
+Objective is: 2.0
+AMPL took 0.0035388469696 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0538139343262 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0537009239197 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0514280796051 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0523288249969 seconds!
+Objective is: 2.0
+AMPL took 0.00351691246033 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0628459453583 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0528049468994 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0565288066864 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0574810504913 seconds!
+Objective is: 2.0
+AMPL took 0.00356912612915 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0586318969727 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0588059425354 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0517539978027 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0536570549011 seconds!
+Objective is: 2.0
+AMPL took 0.00352597236633 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.054181098938 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0542080402374 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0816769599915 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0834400653839 seconds!
+Objective is: 2.0
+AMPL took 0.00348687171936 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0852539539337 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0852150917053 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0203387737274 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0193519592285 seconds!
+Objective is: 2.0
+AMPL took 0.00399589538574 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0202529430389 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0212528705597 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0605487823486 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0634639263153 seconds!
+Objective is: 2.0
+AMPL took 0.0035080909729 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0641140937805 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0624749660492 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.056135892868 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0530600547791 seconds!
+Objective is: 2.0
+AMPL took 0.00341200828552 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0516889095306 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0528559684753 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0515921115875 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0520770549774 seconds!
+Objective is: 2.0
+AMPL took 0.00361490249634 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0546531677246 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0531060695648 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0484299659729 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.050311088562 seconds!
+Objective is: 2.0
+AMPL took 0.00336003303528 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0507259368896 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0505900382996 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0510489940643 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0527138710022 seconds!
+Objective is: 3.0
+AMPL took 0.00353598594666 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0535440444946 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0527379512787 seconds!
+Objective is: 3.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0621840953827 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0696001052856 seconds!
+Objective is: 2.0
+AMPL took 0.00352096557617 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0655357837677 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0568110942841 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0510549545288 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0528891086578 seconds!
+Objective is: 2.0
+AMPL took 0.00349807739258 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0703518390656 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0795869827271 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0497159957886 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.051864862442 seconds!
+Objective is: 2.0
+AMPL took 0.00339889526367 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0537359714508 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0529539585114 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0565340518951 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0581078529358 seconds!
+Objective is: 3.0
+AMPL took 0.00346803665161 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0582611560822 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0579829216003 seconds!
+Objective is: 3.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0630490779877 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0650939941406 seconds!
+Objective is: 2.0
+AMPL took 0.00346899032593 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0667531490326 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0657007694244 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0521111488342 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0522489547729 seconds!
+Objective is: 2.0
+AMPL took 0.00355792045593 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0530731678009 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0536341667175 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0537629127502 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0560970306396 seconds!
+Objective is: 2.0
+AMPL took 0.00347208976746 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0572378635406 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0612230300903 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0513160228729 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0526211261749 seconds!
+Objective is: 3.0
+AMPL took 0.00340294837952 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0536229610443 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.051805973053 seconds!
+Objective is: 3.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0492129325867 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0913798809052 seconds!
+Objective is: 2.0
+AMPL took 0.00354313850403 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.052992105484 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0514900684357 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.777812957764 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.05326795578 seconds!
+Objective is: 2.0
+AMPL took 0.00373196601868 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0536248683929 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0538611412048 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.689394950867 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0522799491882 seconds!
+Objective is: 3.0
+AMPL took 0.00374507904053 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0509729385376 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0521430969238 seconds!
+Objective is: 3.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.050980091095 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0511429309845 seconds!
+Objective is: 2.0
+AMPL took 0.00339388847351 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0519299507141 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0521719455719 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0590879917145 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0588390827179 seconds!
+Objective is: 2.0
+AMPL took 0.0035080909729 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0622911453247 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0533001422882 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0532460212708 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0520160198212 seconds!
+Objective is: 2.0
+AMPL took 0.00341606140137 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.053375005722 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0540130138397 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0490598678589 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0514018535614 seconds!
+Objective is: 2.0
+AMPL took 0.00370311737061 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0557029247284 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0569858551025 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0509390830994 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0523619651794 seconds!
+Objective is: 2.0
+AMPL took 0.00344204902649 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0518040657043 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0515029430389 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0499639511108 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0543110370636 seconds!
+Objective is: 2.0
+AMPL took 0.00336194038391 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0533530712128 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0538210868835 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0496351718903 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0502500534058 seconds!
+Objective is: 2.0
+AMPL took 0.00339007377625 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0519180297852 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0513830184937 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0530889034271 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0574550628662 seconds!
+Objective is: 3.0
+AMPL took 0.00366806983948 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0552740097046 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0541288852692 seconds!
+Objective is: 3.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0515489578247 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0534300804138 seconds!
+Objective is: 2.0
+AMPL took 0.00348997116089 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0544199943542 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0592150688171 seconds!
+Objective is: 2.0
+NCCD
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.0508229732513 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0516669750214 seconds!
+Objective is: 2.0
+AMPL took 0.00341701507568 seconds to build model!
+NCCD_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0536029338837 seconds!
+Objective is: 0.0
+SNCC_Cuts
+CPLEX 12.10.0.0: optimal integer solution; objective 0
+0 MIP simplex iterations
+0 branch-and-bound nodes
+Objective = totalCost
+ampl.solve() took 0.0526881217957 seconds!
+Objective is: 2.0

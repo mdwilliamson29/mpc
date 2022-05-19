@@ -1,0 +1,338 @@
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0544040203094 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0471107959747 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0546770095825 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0481441020966 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0546140670776 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0466778278351 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.081335067749 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0481040477753 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0545239448547 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0460078716278 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0547821521759 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0457329750061 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0545599460602 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0465610027313 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0564301013947 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0478448867798 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0556240081787 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0477969646454 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0545899868011 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0466010570526 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0551748275757 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0460109710693 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0578079223633 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0459959506989 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0556108951569 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0467369556427 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0551891326904 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0470080375671 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0544700622559 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0469160079956 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0548090934753 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0465800762177 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0570528507233 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0469131469727 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0548050403595 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0467510223389 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0537400245667 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0461900234222 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0559048652649 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0498747825623 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0618140697479 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0574779510498 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0569839477539 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0467109680176 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0560359954834 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0460398197174 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0567560195923 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0454909801483 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0561740398407 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0490190982819 seconds!
+Objective is: 0.0
+NCCD
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.0568330287933 seconds!
+Objective is: 0.0
+SNCC
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+Objective = totalCost
+ampl.solve() took 0.0467569828033 seconds!
+Objective is: 0.0

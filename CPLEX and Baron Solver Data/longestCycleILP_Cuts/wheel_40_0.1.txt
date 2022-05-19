@@ -1,0 +1,344 @@
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+508 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.05381798744 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.139801979065 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+114 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.37463903427 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.138834953308 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+610 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.34425616264 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.138906955719 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+680 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.36826109886 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.139723062515 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+472 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 3.32012605667 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.137923955917 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+651 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.5539431572 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.141688108444 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+541 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.35627913475 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.157510995865 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+111 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 0.83499789238 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.155234098434 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+155 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.75482106209 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.156903982162 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+602 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.10087108612 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.146835803986 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+350 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.27839899063 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.142027139664 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+93 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.13611602783 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.148761987686 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+456 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.11262202263 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.140660762787 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+493 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.21372914314 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.143665075302 seconds!
+Objective is: 3.0
+netlicchk: ampl_lic: failed to connect with netmgr for cplex.
+Today = 20210707; found license file "/shared/software/math/ampl/20210106/etc/ampl.lic":
+MGR_IP = 157.182.36.24
+# Mixed normal and 360-day temporary* AMPL, CPLEX, GUROBI & XPRESS
+# floating per-machine license with maintenance expiring 20211231 (AMPL)
+# and 20211231*
+# licensed to West Virginia Univ, Piotr Wojciechowski
+# <pwojciec@mix.wvu.edu> (mrflex.statler.wvu.edu):
+5ff4d372 754af31e f617b3b7 c00e41fa 53a0bb19 d0ee148c d58ae8c2 60bc92de
+9757c885 46864687 732a783a d5725d1b 3490872d bda0116b 33296385 c1b72b32
+c3d7d420 3ac606f1 8335636c 017b5c08 03625fb6 ca277e7e 63132c09 c78b165b
+409182ea 8bd14926 b4238b0c 337cc910 a7b5336e 26904754 22a21661 d7ebccf5
+479177c6 e31ab290 107e6138 742e49f5 9541da63 34b1d422 c6631f89 31be3098
+81755e04 0fbd3620 4239c5c0 828c8fe7 0693c9d2 6433b60f 81c3b37d a07e95eb
+8522094e 82babaa5 c351ff9c 74c99832 c3871fd5 f777105f 757f1483 74b6dae5
+e056f659 50e1eb34 c2218acd 37569aa9 2031ab51 7186b8e5 a5720f21 4182db68
+11d4f07d 5bcb1c61
+
+cplex (Linux x86_64), licchk(20201020), ASL(20201030)
+exit value 2
+<BREAK>
+ampl.solve() took 127.346285105 seconds!
+Objective is: 0.0
+Using Cuts
+netlicchk: ampl_lic: failed to connect with netmgr for cplex.
+Today = 20210707; found license file "/shared/software/math/ampl/20210106/etc/ampl.lic":
+MGR_IP = 157.182.36.24
+# Mixed normal and 360-day temporary* AMPL, CPLEX, GUROBI & XPRESS
+# floating per-machine license with maintenance expiring 20211231 (AMPL)
+# and 20211231*
+# licensed to West Virginia Univ, Piotr Wojciechowski
+# <pwojciec@mix.wvu.edu> (mrflex.statler.wvu.edu):
+5ff4d372 754af31e f617b3b7 c00e41fa 53a0bb19 d0ee148c d58ae8c2 60bc92de
+9757c885 46864687 732a783a d5725d1b 3490872d bda0116b 33296385 c1b72b32
+c3d7d420 3ac606f1 8335636c 017b5c08 03625fb6 ca277e7e 63132c09 c78b165b
+409182ea 8bd14926 b4238b0c 337cc910 a7b5336e 26904754 22a21661 d7ebccf5
+479177c6 e31ab290 107e6138 742e49f5 9541da63 34b1d422 c6631f89 31be3098
+81755e04 0fbd3620 4239c5c0 828c8fe7 0693c9d2 6433b60f 81c3b37d a07e95eb
+8522094e 82babaa5 c351ff9c 74c99832 c3871fd5 f777105f 757f1483 74b6dae5
+e056f659 50e1eb34 c2218acd 37569aa9 2031ab51 7186b8e5 a5720f21 4182db68
+11d4f07d 5bcb1c61
+
+cplex (Linux x86_64), licchk(20201020), ASL(20201030)
+exit value 2
+<BREAK>
+ampl.solve() took 127.358987093 seconds!
+Objective is: 0.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+474 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.31558918953 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.148326158524 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+839 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.54095697403 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.212527990341 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+748 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.53963112831 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.152586936951 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+578 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.59723901749 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.142979860306 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+1010 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.74055695534 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.159468889236 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+529 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.34895992279 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.148133039474 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+807 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.28886795044 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.15541100502 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+778 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.25010490417 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.216727972031 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+1064 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.44225311279 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.234574079514 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+1183 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.66255998611 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.145378112793 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+504 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.1509039402 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.159353017807 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+503 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.05876493454 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.150111913681 seconds!
+Objective is: 3.0
+CPLEX 12.10.0.0: optimal integer solution; objective 3
+453 MIP simplex iterations
+0 branch-and-bound nodes
+ampl.solve() took 1.17868518829 seconds!
+Objective is: 3.0
+Using Cuts
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.149956941605 seconds!
+Objective is: 3.0

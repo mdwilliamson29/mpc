@@ -1,0 +1,150 @@
+AMPL took 10.3858480453 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.183163881302 seconds!
+Objective is: 0.0
+AMPL took 10.4675228596 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.179411888123 seconds!
+Objective is: 0.0
+AMPL took 10.4899160862 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.20140004158 seconds!
+Objective is: 0.0
+AMPL took 10.5326480865 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.200384140015 seconds!
+Objective is: 0.0
+AMPL took 10.4514360428 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.186767101288 seconds!
+Objective is: 0.0
+AMPL took 10.4938800335 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.185291051865 seconds!
+Objective is: 0.0
+AMPL took 10.4462330341 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.190571069717 seconds!
+Objective is: 0.0
+AMPL took 10.4054670334 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.194499969482 seconds!
+Objective is: 0.0
+AMPL took 10.4096028805 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.199329853058 seconds!
+Objective is: 0.0
+AMPL took 10.6149709225 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.199138879776 seconds!
+Objective is: 0.0
+AMPL took 10.4873530865 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.199271917343 seconds!
+Objective is: 0.0
+AMPL took 10.5565600395 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.197944164276 seconds!
+Objective is: 0.0
+AMPL took 10.423377037 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.202184915543 seconds!
+Objective is: 0.0
+AMPL took 10.715228796 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.201974153519 seconds!
+Objective is: 0.0
+AMPL took 10.4895589352 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.2001080513 seconds!
+Objective is: 0.0
+AMPL took 10.5468528271 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.198720932007 seconds!
+Objective is: 0.0
+AMPL took 10.6912920475 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.214290142059 seconds!
+Objective is: 0.0
+AMPL took 11.0233130455 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.207940101624 seconds!
+Objective is: 0.0
+AMPL took 11.6432721615 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.215443849564 seconds!
+Objective is: 0.0
+AMPL took 11.0387339592 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.264455795288 seconds!
+Objective is: 0.0
+AMPL took 10.8305728436 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.368554115295 seconds!
+Objective is: 0.0
+AMPL took 11.2369530201 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.20991897583 seconds!
+Objective is: 0.0
+AMPL took 10.3555018902 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.196015119553 seconds!
+Objective is: 0.0
+AMPL took 10.7202620506 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.212092876434 seconds!
+Objective is: 0.0
+AMPL took 10.6139109135 seconds to build model!
+CPLEX 12.10.0.0: Unknown keyword "maxtime"
+Unknown keyword "3600"
+CPLEX 12.10.0.0: Error in $cplex_options.
+ampl.solve() took 0.217010974884 seconds!
+Objective is: 0.0

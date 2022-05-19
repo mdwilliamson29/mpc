@@ -1,0 +1,1 @@
+Running "python run..." for the appropriate file will generate results in their corresponding folders in this directory. See the current folders for example outputs. These output files can be parsed for runtimes and averaged to obtain the results reported in the paper.

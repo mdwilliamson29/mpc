@@ -1,0 +1,120 @@
+AMPL took 0.0665509700775 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0972249507904 seconds!
+Objective is: 30.0
+AMPL took 0.0706050395966 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 18 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.527816772461 seconds!
+Objective is: 30.0
+AMPL took 0.0677199363708 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.093248128891 seconds!
+Objective is: 30.0
+AMPL took 0.0660190582275 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 18 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.510828971863 seconds!
+Objective is: 29.9999999995
+AMPL took 0.0661940574646 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0943751335144 seconds!
+Objective is: 30.0
+AMPL took 0.0694758892059 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0930020809174 seconds!
+Objective is: 30.0
+AMPL took 0.0648319721222 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0947489738464 seconds!
+Objective is: 30.0
+AMPL took 0.0670499801636 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0933699607849 seconds!
+Objective is: 30.0
+AMPL took 0.0672180652618 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 2 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.187252998352 seconds!
+Objective is: 30.0
+AMPL took 0.0713200569153 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0982608795166 seconds!
+Objective is: 30.0
+AMPL took 0.0658180713654 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0946431159973 seconds!
+Objective is: 30.0
+AMPL took 0.0646691322327 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 21 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.519004821777 seconds!
+Objective is: 30.0
+AMPL took 0.0651938915253 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 21 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.526975870132 seconds!
+Objective is: 30.0
+AMPL took 0.0662169456482 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0936439037323 seconds!
+Objective is: 30.0
+AMPL took 0.0662198066711 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0946910381317 seconds!
+Objective is: 30.0
+AMPL took 0.0665409564972 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.095067024231 seconds!
+Objective is: 30.0
+AMPL took 0.0657558441162 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0961120128632 seconds!
+Objective is: 30.0
+AMPL took 0.0684130191803 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0982058048248 seconds!
+Objective is: 30.0
+AMPL took 0.0655210018158 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 17 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.476063013077 seconds!
+Objective is: 30.0
+AMPL took 0.0666210651398 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 0 iterations, optimal within tolerances.
+Objective 30
+ampl.solve() took 0.0950779914856 seconds!
+Objective is: 30.0

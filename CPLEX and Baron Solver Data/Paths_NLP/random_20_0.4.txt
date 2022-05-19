@@ -1,0 +1,12 @@
+AMPL took 0.280304908752 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 46603 iterations, CPU time limit reached.
+Objective 1e+51
+ampl.solve() took 3608.64995909 seconds!
+Objective is: 0.0
+AMPL took 0.27508020401 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+BARON 21.1.13 (2021.01.13): 49643 iterations, CPU time limit reached.
+Objective 1e+51
+ampl.solve() took 3608.63619804 seconds!
+Objective is: 0.0

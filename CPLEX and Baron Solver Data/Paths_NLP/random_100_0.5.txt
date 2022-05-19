@@ -1,0 +1,8 @@
+AMPL took 225.033951044 seconds to build model!
+BARON 21.1.13 (2021.01.13): maxtime 3600
+ Estimated remaining time for local search is 137 secs
+ Estimated remaining time for local search is 144 secs
+BARON 21.1.13 (2021.01.13): 5 iterations, CPU time limit reached.
+Objective 1e+51
+ampl.solve() took 3615.17995596 seconds!
+Objective is: 0.0
